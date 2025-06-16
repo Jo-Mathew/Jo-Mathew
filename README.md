@@ -38,10 +38,10 @@ Here are a few of my Tableau dashboards, each designed to tell a data story with
 
 ## 🛠️ Skills
 
-**Programming Languages:**  
-**AI/ML & GenAI Tools:**  
-**Data Analysis & Visualization:**  
-**Machine Learning & Deep Learning:**  
+**Programming Languages: Python, SQL, R, C++**  
+**AI/ML & GenAI Tools**  
+**Data Analysis & Visualization**  
+**Machine Learning & Deep Learning**  
 
 ---
 
