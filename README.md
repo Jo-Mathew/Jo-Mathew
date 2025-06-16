@@ -31,8 +31,6 @@ I'm a data analyst and GenAI enthusiast passionate about transforming data into 
 
 Here are a few of my Tableau dashboards, each designed to tell a data story with clarity and purpose:
 
-[![Dashboard 1 - HR Attrition Dashboard](https://public.tableau.com/views/HRAttritionDashboard_17500696102950/HRDASHBOARD?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-[![Dashboard 2 - SuperStore Sales Dashboard](https://public.tableau.com/views/SuperStoreSalesDashboardProject/SuperStoreDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 [![Dashboard 1 - HR Attrition](![image](https://github.com/user-attachments/assets/ebfbd8c7-78d5-41ed-a01f-72fba9f5f748))](https://public.tableau.com/views/HRAttritionDashboard_17500696102950/HRDASHBOARD?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
