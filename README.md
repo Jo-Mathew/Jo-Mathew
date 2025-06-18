@@ -37,6 +37,14 @@ Here are a few of my Tableau dashboards, each designed to tell a data story with
 
 ---
 
+## 📊 Power BI Dashboards
+
+Here are a few of my PowerBI dashboards, each designed to tell a data story with clarity and purpose:
+
+[Dashboard 1 - Power BI Spotify Analytics 2023 Dashboard](https://github.com/Jo-Mathew/Power-BI-Spotify-2023-Music-Analytics-Dashboard)  
+
+---
+
 ## 🛠️ Skills
 
 **Programming Languages: Python, SQL, R, C++**  
