@@ -30,9 +30,7 @@ I'm a data analyst and GenAI enthusiast passionate about transforming data into 
 ## 📊 Tableau Dashboards
 
 Here are a few of my Tableau dashboards, each designed to tell a data story with clarity and purpose:
-<h2>Tableau Dashboards</h2>
 
-<p>Here are a few of my Tableau dashboards, each designed to tell a data story with clarity and purpose:</p>
 
 <table>
   <tr>
