@@ -30,14 +30,36 @@ I'm a data analyst and GenAI enthusiast passionate about transforming data into 
 ## 📊 Tableau Dashboards
 
 Here are a few of my Tableau dashboards, each designed to tell a data story with clarity and purpose:
+<h2>Tableau Dashboards</h2>
 
-[![Dashboard 1 - Hospital Management Dashboard](Images/hospital_dashboard.png)](https://public.tableau.com/views/HospitalManagementDashboard_17503440445920/HospitalDashboard)
+<p>Here are a few of my Tableau dashboards, each designed to tell a data story with clarity and purpose:</p>
 
-[![Dashboard 2 - Human Resource Analytics Dashboard](Images/HR_DASHBOARD.png)](https://public.tableau.com/views/HRDashboard_17501806096320/HRDASHBOARD)
-
-[![Dashboard 3 - HR Attrition Dashboard](Images/HR_ATTRITION_DASHBOARD.JPG)](https://public.tableau.com/views/HRAttritionDashboard_17500696102950/HRDASHBOARD)
-
-[![Dashboard 4 - SuperStore Sales Dashboard](Images/SuperStore_Dashboard.png)](https://public.tableau.com/views/SuperStoreSalesDashboardProject/SuperStoreDashboard)
+<table>
+  <tr>
+    <td>
+      <a href="https://public.tableau.com/views/HospitalManagementDashboard_17503440445920/HospitalDashboard" target="_blank">
+        <img src="Images/hospital_dashboard.png" alt="Hospital Dashboard" width="300"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://public.tableau.com/views/HRDashboard_17501806096320/HRDASHBOARD" target="_blank">
+        <img src="Images/HR_DASHBOARD.png" alt="HR Dashboard" width="300"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://public.tableau.com/views/HRAttritionDashboard_17500696102950/HRDASHBOARD" target="_blank">
+        <img src="Images/HR_ATTRITION_DASHBOARD.JPG" alt="HR Attrition Dashboard" width="300"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://public.tableau.com/views/SuperStoreSalesDashboardProject/SuperStoreDashboard" target="_blank">
+        <img src="Images/superstore_dashboard.png" alt="Superstore Dashboard" width="300"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
