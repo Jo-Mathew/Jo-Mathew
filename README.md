@@ -35,7 +35,7 @@ Here are a few of my Tableau dashboards, each designed to tell a data story with
 
 [![Dashboard 2 - Human Resource Analytics Dashboard](Images/HR_DASHBOARD.png)](https://public.tableau.com/views/HRDashboard_17501806096320/HRDASHBOARD)
 
-[![Dashboard 3 - HR Attrition Dashboard](Images/HR_ATTRITION_DASHBOARD)](https://public.tableau.com/views/HRAttritionDashboard_17500696102950/HRDASHBOARD)
+[![Dashboard 3 - HR Attrition Dashboard](Images/HR_ATTRITION_DASHBOARD.JPG)](https://public.tableau.com/views/HRAttritionDashboard_17500696102950/HRDASHBOARD)
 
 [![Dashboard 4 - SuperStore Sales Dashboard](Images/SuperStore_Dashboard.png)](https://public.tableau.com/views/SuperStoreSalesDashboardProject/SuperStoreDashboard)
 
