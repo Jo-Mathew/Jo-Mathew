@@ -73,7 +73,7 @@ Here are a few of my PowerBI dashboards, each designed to tell a data story with
   <tr>
     <td>
       <a href="https://github.com/Jo-Mathew/Power-BI-Spotify-2023-Music-Analytics-Dashboard" target="_blank">
-        <img src="Images/powerbi_spotify_dashboard.png" alt="Hospital Dashboard" width="300"/>
+        <img src="Images/powerbi_spotify_dashboard.JPG" alt="Hospital Dashboard" width="300"/>
       </a>
     </td>
     
