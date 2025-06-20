@@ -31,7 +31,7 @@ I'm a data analyst and GenAI enthusiast passionate about transforming data into 
 
 Here are a few of my Tableau dashboards, each designed to tell a data story with clarity and purpose:
 
-[![Dashboard 1 - Hospital Management Dashboard](Images/Hospital_Dashboard.png)](https://public.tableau.com/views/HospitalManagementDashboard_17503440445920/HospitalDashboard)
+[![Dashboard 1 - Hospital Management Dashboard](Images/hospital_dashboard.png)](https://public.tableau.com/views/HospitalManagementDashboard_17503440445920/HospitalDashboard)
 
 [![Dashboard 2 - Human Resource Analytics Dashboard](Images/HR_Analytics_Dashboard.png)](https://public.tableau.com/views/HRDashboard_17501806096320/HRDASHBOARD)
 
