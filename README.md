@@ -49,19 +49,19 @@ Here are a few of my Tableau dashboards, each designed to tell a data story with
         <img src="Images/HR_DASHBOARD.png" alt="HR Dashboard" width="300"/>
       </a>
     </td>
+  </tr>
+  
+  <tr>
     <td>
       <a href="https://public.tableau.com/views/HRAttritionDashboard_17500696102950/HRDASHBOARD" target="_blank">
         <img src="Images/HR_ATTRITION_DASHBOARD.JPG" alt="HR Attrition Dashboard" width="300"/>
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://public.tableau.com/views/SuperStoreSalesDashboardProject/SuperStoreDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
         <img src="Images/superstore_sales_dashboard.png" alt="Superstore Dashboard" width="300"/>
       </a>
     </td>
-    <td></td>
     <td></td>
   </tr>
 </table>
