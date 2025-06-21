@@ -36,12 +36,12 @@ Here are a few of my Tableau dashboards, each designed to tell a data story with
   <tr>
     <td>
       <a href="[https://public.tableau.com/views/HRAttritionDashboard_17500696102950/HRDASHBOARD](https://public.tableau.com/views/StockMarketAnalysisDashboard_17505023884840/StockMarketDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)" target="_blank">
-        <img src="Images/HR_ATTRITION_DASHBOARD.JPG" alt="Stock Market Analysis Dashboard" width="300"/>
+        <img src="Images/Stock_Market_Dashboard.png" alt="Stock Market Analysis Dashboard" width="300"/>
       </a>
     </td>
     <td>
       <a href="https://public.tableau.com/views/HospitalManagementDashboard_17503440445920/HospitalDashboard" target="_blank">
-        <img src="Images/Stock_Market_Dashboard.png" alt="Hospital Dashboard" width="300"/>
+        <img src="Images/hospital_dashboard.png" alt="Hospital Dashboard" width="300"/>
       </a>
     </td>
     <td>
