@@ -61,7 +61,6 @@ Here are a few of my Tableau dashboards, each designed to tell a data story with
         <img src="Images/superstore_sales_dashboard.png" alt="Superstore Dashboard" width="300"/>
       </a>
     </td>
-    
     <td></td>
     <td></td>
   </tr>
