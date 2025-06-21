@@ -35,7 +35,7 @@ Here are a few of my Tableau dashboards, each designed to tell a data story with
 <table>
   <tr>
     <td>
-      <a href="[https://public.tableau.com/views/HRAttritionDashboard_17500696102950/HRDASHBOARD](https://public.tableau.com/views/StockMarketAnalysisDashboard_17505023884840/StockMarketDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)" target="_blank">
+      <a href="https://public.tableau.com/views/StockMarketAnalysisDashboard_17505023884840/StockMarketDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
         <img src="Images/Stock_Market_Dashboard.png" alt="Stock Market Analysis Dashboard" width="300"/>
       </a>
     </td>
