@@ -95,6 +95,11 @@ Here are a few of my PowerBI dashboards, each designed to tell a data story with
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jo-Mathew&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-Mathew&layout=compact&theme=default)
+
+---
 
 
 
