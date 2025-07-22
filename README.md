@@ -2,7 +2,7 @@
 
 I'm a data analyst and GenAI enthusiast passionate about transforming data into insights and intelligent solutions. I work at the intersection of **data visualization** and **AI**, building tools that are practical, scalable, and impactful.
 
-![Profile Views](https://komarev.com/ghpvc/?username=jo-mathew&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Jo-Mathew&color=blue)
 ---
 
 ## 💡 What I Do
